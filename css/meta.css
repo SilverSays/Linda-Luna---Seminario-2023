@@ -1,0 +1,61 @@
+body{
+background-color: #DEF5E5;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+h3{
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+h4{
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+h5{
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+h6{
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.card-title{
+    font-family: 'Tilt Neon', cursive;
+}
+
+.card-text{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.card-img-top{
+    display: flex;
+    height: 300px;
+    width: auto;
+}
